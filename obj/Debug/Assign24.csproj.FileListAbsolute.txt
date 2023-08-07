@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\bin\Debug\Assign24.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\bin\Debug\Assign24.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\bin\Debug\Assign24.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\bin\Debug\Assignment24.dll
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\bin\Debug\Assignment24.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\obj\Debug\Assign24.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\obj\Debug\Assign24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\obj\Debug\Assign24.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\obj\Debug\Assign24.csproj.CopyComplete
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\obj\Debug\Assign24.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-21\Assign24\Assign24\obj\Debug\Assign24.pdb
